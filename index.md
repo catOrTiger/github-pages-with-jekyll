@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "It is my first Page"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm trying to create a Page. Please wait...
